@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+/* Variáveis */
+
+:root {
+
+    --borda_teste: solid 1 px greenyellow;
+}
+
+/* Formatações */
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+
+}
+
+
+/***************************************/
+
+
+#Hero_Area {
+
+}
+
+footer {
+
+}
+
+
+/***************************************/
+
+
+main {
+
+}
+
